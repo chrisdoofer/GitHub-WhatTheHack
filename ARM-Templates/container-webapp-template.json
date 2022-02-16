@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "webAppName": {
-            "defaultValue": "cb-devops-dev",
+            "defaultValue": "cb-devops-test",
             "type": "String"
         },
         "hostingPlanName": {
