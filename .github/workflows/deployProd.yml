@@ -4,7 +4,7 @@ on:
       - 'main'
     paths:
       - '.github/workflows/deployProd.yml'
-name: AzureARMDeploy
+name: AzureARMDeployProd
 
 jobs:
   build-and-deploy:
