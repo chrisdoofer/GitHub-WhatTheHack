@@ -4,7 +4,7 @@ on:
       - 'main'
     paths:
       - '.github/workflows/deployTest.yml'
-name: AzureARMDeploy
+name: AzureARMDeployTest
 
 jobs:
   build-and-deploy:
