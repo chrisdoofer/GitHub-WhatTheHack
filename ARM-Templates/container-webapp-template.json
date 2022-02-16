@@ -23,7 +23,7 @@
             "type": "String"
         },
         "registryName": {
-            "defaultValue": "cb-devopsreg",
+            "defaultValue": "cbdevopsreg",
             "type": "String"
         },
         "imageName": {
